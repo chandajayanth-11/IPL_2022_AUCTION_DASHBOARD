@@ -5,3 +5,4 @@ I have created a dashboard, spotlighting the top highlights from the IPL 2022 Me
 🔹 Player Prices & Types: Insights into the selling prices and roles of key players.
 🔹 Trophy Winners by Year: A look back at IPL champions over the years.
 🔹 Team Selections (2021-2022): Track player movements and team strategies for the upcoming season. 
+[Dashboard.xlsx](https://github.com/user-attachments/files/16983243/Dashboard.xlsx)
